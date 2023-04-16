@@ -10,4 +10,6 @@
 
 ## 展示！
 
-![Alt text](../../Typora笔记/前端/前端笔记/img/035af1ecac5f3a7eabac2590aa87df8-16816277816613.png)
+![Alt text](https://github.com/zxx1218/XueXinApp/blob/main/Show-Image/a.png)
+
+![Alt text](https://github.com/zxx1218/XueXinApp/blob/main/Show-Image/b.png)
